@@ -1,8 +1,8 @@
 instructor:
-- name: Alpha Beta
-  github: https://github.com/atharva-chandak #instrucor's github link
-  email: intructor@gmail.com 
-  img: assets/instructor.svg
+- name: Lawrence Uricchio
+  github: uricchio.github.io #instrucor's github link
+  email: Lawrence.Uricchio@tufts.edu 
+  img: assets/LHU.png
   consultation: 'Sat 6:30 - 7:30pm, 6116A'
 
 - name: Gamma Delta
