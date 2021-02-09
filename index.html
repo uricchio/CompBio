@@ -6,14 +6,14 @@ layout: home
         Tufts University BIO 35
         <h1 id="main-title" style="font-weight: 800; font-size: 3em;">{{site.title}}</h1>
         <br>
-        <h1 id="Course Description">Course Description</h1>
+        <h2 id="Course Description">Course Description</h2>
         {% for para in site.data.home.course.content %}
 
             {{para.p}}    
 
         {% endfor %}
         <br><hr><br>
-        <h1 class="standard-title" id="Instructors">Instructors</h1>
+        <h2 class="standard-title" id="Instructors">Instructors</h2>
         <br>
         <ul class=lists>
             <li>
@@ -36,7 +36,7 @@ layout: home
                 </div>
             </li>
         </ul>
-        <h1 class="standard-title" id="FAQs">FAQs</h1>
+        <h2 class="standard-title" id="FAQs">FAQs</h2>
             {% for item in site.data.home.FAQs.FAQ %}
             <ul class= lists style="font-size:1.2em">
                 <li style="font-weight: 500;"> {{item.question}}</li>
