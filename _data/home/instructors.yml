@@ -1,8 +1,8 @@
 instructor:
 - name: Lawrence Uricchio
-  github: uricchio.github.io #instrucor's github link
+  github: https://uricchio.github.io 
   email: Lawrence.Uricchio@tufts.edu 
-  img: assets/LHU.png
+  img: assets/LHU_tn.pdf
   consultation: 'Sat 6:30 - 7:30pm, 6116A'
 
 - name: Gamma Delta
