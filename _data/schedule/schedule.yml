@@ -1,18 +1,21 @@
 plan: "<table style=\"width:100%\">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Week</th>
+    <th>Topic</th>
+    <th>Reading</th>
+    <th>Assignment</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>1</td>
+    <td>Python basics</td>
     <td>50</td>
+    <td></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>2</td>
+    <td>basics</td>
     <td>94</td>
+    <td></td>
   </tr>
   </table>"
 
