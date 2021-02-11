@@ -1,7 +1,7 @@
 syllabus:
   
   - heading: Learning Objectives
-    content: "The course will wind through a number of topics in contemporary biology, with approximately one topic every two weeks.  Each module will follow the following general outline of asking a biological question, recasting it as a computational problem, proposing a solution to the computational problem, and finally implementing the solution in computer code.  We will introduce real or simulated datasets for each of these problems. <br><br>
+    content: "The course will wind through a number of topics in contemporary biology, with approximately one topic every two weeks.  Each module will follow a general outline of asking a biological question, recasting it as a computational problem, proposing a solution to the computational problem, and finally implementing the solution in computer code.  We will introduce real or simulated datasets for each of these problems. <br><br>
 
 <ul>
 <li>Ask a biological question: We will focus a substantial portion of the course around ongoing discussions in both popular science journalism and the scientific literature. By the end of the course, students should be able to read a journalistic article about a problem in computational biology, identify the research question being posed, and describe why a computational approach may be needed for this problem. They should be able to broadly describe several open biological/evolutionary questions that researchers are currently investigating using computational approaches. </li><br>
