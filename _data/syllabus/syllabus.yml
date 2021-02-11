@@ -13,9 +13,20 @@ syllabus:
 <li>Implement a solution: We will use Python to implement solutions to the computational problems introduced in the course. Students will use real or simulated datasets to answer the questions posed. While we will emphasize basic coding principles, writing beautiful code will not be a main focus of the course. </li> </ul>"
 
   - heading: Software
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    content: "We will use a wide range of software tools in this class, but most importantly we will be writing our software in Python3. You will need access to a computer on which
+              you can code Python3, or alternatively you will need to login remotely to another machine that has Python3. <br><br>
+
+              Below please find a list of software tools that we will use throughout the course. While it would be helpful to download and install each of these tools before
+              the beginning of the course, please note that only Python3 absolutely needs to be installed! If you have any difficulty installing these before day 1 please email
+              the instructors. <br><br>
+
+              <ul>
+
+              <li> Python3: </li>
+              <li> numpy: </li>
+              <li> SLiM: </li>
+              <li> stdpopsim: </li>
+              </ul> " 
 
   - heading: Materials  
     content: " {Recommended Materials} <br>
