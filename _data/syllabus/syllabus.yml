@@ -54,13 +54,16 @@ syllabus:
                <li> <i>Meeting with instructor</i>: </li>
                </ul>"
 
-  - heading: Late Policy  
+  - heading: Late policy  
     content: "We will allow a grace period of two days for the first late assignment. Subsequent late assignments will be subject to a 20 point penalty per day late.
               If something is going on
               in your life that will consistently make it difficult to turn in your assignments, 
               please come talk to us or a trusted academic advisor so that we can work out a solution. <br>"
 
-  - heading: Grading Policy 
-    content: "<ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul> "
-
+  - heading: Grading 
+    content: "<ul><li>Coding assignments: 60%  (10% eeach) </li>
+                  <li>Scientist spotlghts: 20% (4% each)</li>
+                  <li>Final project: 15%</li>                 
+                  <li>Meeting with instructor: 5%</li>
+              </ul> "
+               
