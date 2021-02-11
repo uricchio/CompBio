@@ -29,10 +29,11 @@ syllabus:
               </ul> " 
 
   - heading: Materials  
-    content: "we will use the textbook <it>Computing for Biologists</it> for most of sections in this course. Occassional additional readings will be assigned 
+    content: "we will use the textbook <i>Computing for Biologists</i> for most of sections in this course. Occassional additional readings will be assigned and distrubuted as PDFs to the
+              class. <br><br>
               <ul>
-              <li> <it>Computing for Biologists: Python Programming and Principles</it>, Ran Liebskind-Hadas and Eliot Bush. <a href=https://books.google.com/books/about/Computing_for_Biologists.html?id=E8HOBAAAQBAJ>link here</a>"
-    
+              <li> <i>Computing for Biologists: Python Programming and Principles</i>, Ran Liebskind-Hadas and Eliot Bush. <a href=https://books.google.com/books/about/Computing_for_Biologists.html?id=E8HOBAAAQBAJ>link here</a>"
+  
 
   - heading: Late Policy  
     content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
