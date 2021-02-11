@@ -26,7 +26,7 @@ syllabus:
               <li> numpy: </li>
               <li> SLiM: </li>
               <li> stdpopsim: </li>
-              </ul> " 
+              </ul>" 
 
   - heading: Materials  
     content: "We will use the textbook <i>Computing for Biologists</i> for most of sections in this course. Occassional additional readings will be assigned and distrubuted as PDFs to the
@@ -41,14 +41,15 @@ syllabus:
                <li> <i>Scientist spotlights</i>: </li>
                <li> <i>Final project</i>:       </li>
                <li> <i>Meeting with instructor</i>: </li>
-               </ul> "
+               </ul>"
 
   - heading: Late Policy  
-    content: "We will allow a grace period of two days for a first two late assignments. Subsequent late assignments will be subject to a 20 point penalty per day late, 
+    content: "We will allow a grace period of two days for a first two late assignments. Subsequent late assignments will be subject to a 20 point penalty per day late.
               If something is going on
-              in your life that will consistently make it difficult to turn your assignments, please come talk to us or a trusted academic advisor so that we can work out a solution."
+              in your life that will consistently make it difficult to turn in your assignments, 
+              please come talk to us or a trusted academic advisor so that we can work out a solution. <br>"
 
   - heading: Grading Policy 
     content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+                <li>Final Exams: 50% (20% + 30%)</li></ul> "
+
