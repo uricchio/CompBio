@@ -37,10 +37,10 @@ syllabus:
    - heading: Assignments
      content: "There will be four types of assignments in this course:
                <ul>
-               <li> <i>Coding assignments</i>: 
-               <li> <i>Scientist spotlights</i>:
-               <li> <i>Final project</i>:
-               <li> <i>Meeting with instructor</i>:
+               <li> <i>Coding assignments</i>: </li> 
+               <li> <i>Scientist spotlights</i>: </li>
+               <li> <i>Final project</i>:       </li>
+               <li> <i>Meeting with instructor</i>: </li>
                </ul> "
 
   - heading: Late Policy  
