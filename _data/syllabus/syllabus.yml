@@ -1,5 +1,18 @@
 syllabus:
-  - heading: Technology
+  
+  - heading: Learning Objectives
+    content: "The course will wind through a number of topics in contemporary biology, with approximately one topic every two weeks.  Each module will follow the following general outline of asking a biological question, recasting it as a computational problem, proposing a solution to the computational problem, and finally implementing the solution in computer code.  We will introduce real or simulated datasets for each of these problems. <br>
+
+<ul>
+<li>Ask a biological question: We will focus a substantial portion of the course around ongoing discussions in both popular science journalism and the scientific literature. By the end of the course, students should be able to read a journalistic article about a problem in computational biology, identify the research question being posed, and describe why a computational approach may be needed for this problem. They should be able to broadly describe several open biological/evolutionary questions that researchers are currently investigating using computational approaches. </li>
+
+<li>Reduce a biological problem to a computational problem: Many biological questions can be restated as computational problems once the appropriate data have been collected. Students should be able to take a biological question and reduce it to a computational problem within the realm of a range of topics discussed in the course. </li>
+
+<li>Propose a computational solution: Having identified the biological problem as a computational problem, students should be able propose a computational solution (i.e., an algorithm). This is not a computer science course! We will not focus on correctness proofs or computational complexity. Rather we will attempt to provide intuitive explanations for the operation of algorithms, and we will expect that students should be able to explain how/why the algorithm works. </li>
+
+<li>Implement a solution: We will use Python to implement solutions to the computational problems introduced in the course. Students will use real or simulated datasets to answer the questions posed. While we will emphasize basic coding principles, writing beautiful code will not be a main focus of the course. </li> </ul>"
+
+  - heading: Software
     content: " {The Tech you will be using} <br>
     Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
