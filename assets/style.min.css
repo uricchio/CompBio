@@ -52,7 +52,7 @@ ul>li{
   }
 
   #FAQs{
-    height: 8vh;
+    height: 10vh;
   }
 .wrap-container {
   text-align: center; }
@@ -133,7 +133,7 @@ div.person {
       background-size:cover; 
     }
 div.person .person-name {
-  font-size: 1.5em;
+  font-size: 1em;
   font-family: 'Raleway';
   color: #888;
   font-weight: 300;
@@ -151,7 +151,7 @@ div.person .person-text {
   width: calc(100% - 9em); }
   div.person .person-text p {
     color: #888;
-    font-size: 1.1em;
+    font-size: 0.9em;
     margin: 0.1em 0; 
     padding-top: 1vh;}
     div.person .person-text p span {
@@ -165,7 +165,7 @@ div.person .person-text {
   padding-top: 0.25em;
   font-weight: 500;
   font-family: 'Raleway';
-  font-size: 2em;
+  font-size: 1em;
   margin: 0.1em 0 0.25em 0;
   width: 100%; }
   .standard-text .standard-title a {
@@ -180,10 +180,10 @@ div.person .person-text {
   font-family: 'Raleway';
   font-weight: 300; }
 .standard-text .standard-title + p, .standard-text .copy p {
-  font-size: 1.1em;
+  font-size: 0.9em;
   line-height: 150%; }
 .standard-text blockquote {
-  font-size: 1em; }
+  font-size: 0.9em; }
 .standard-text .extra p {
   margin: 0;
   color: #999; }
@@ -199,7 +199,7 @@ ul.lists {
   ul.lists li {
     color: #000;
     padding: 0.2em 0;
-    font-size: 1.1em;
+    font-size: 0.9em;
     list-style: none;
     margin: 0; }
     ul.lists li a {
