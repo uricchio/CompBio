@@ -7,6 +7,6 @@ baseurl: "CompBio"   # specify the subpath of your site
 url: "https://uricchio.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: LawUricchio #
 github_username: uricchio #
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
