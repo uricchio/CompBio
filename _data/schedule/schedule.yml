@@ -1,99 +1,19 @@
 plan: "<table style=\"width:100%\">
   <tr>
     <th>Week</th>
-    <th>Topic</th>
+    <th>Biology topic</th>
+    <th>Python topic</th>
     <th>Reading</th>
+    <th>Resources</th>
     <th>Assignment</th>
   </tr>
   <tr>
     <td>1</td>
+    <td>What is comp bio?</td>
     <td>Python basics</td>
-    <td>50</td>
+    <td>CFB 1-?</td>
     <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>basics</td>
-    <td>94</td>
-    <td></td>
+    <td><a href=assignments/assignment1.pdf>Assignment 1</a></td>
   </tr>
   </table>"
 
