@@ -133,7 +133,7 @@ div.person {
       background-size:cover; 
     }
 div.person .person-name {
-  font-size: 1em;
+  font-size: 1.1em;
   font-family: 'Raleway';
   color: #888;
   font-weight: 300;
@@ -151,7 +151,7 @@ div.person .person-text {
   width: calc(100% - 9em); }
   div.person .person-text p {
     color: #888;
-    font-size: 0.9em;
+    font-size: 1.1em;
     margin: 0.1em 0; 
     padding-top: 1vh;}
     div.person .person-text p span {
