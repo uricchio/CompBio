@@ -20,7 +20,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>2</td>
     <td>Summarizing genomes</td>
-    <td>functions, conditionals, loops</td>
+    <td>Functions, conditionals, loops</td>
     <td>CFB chapter 1</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 1</a></td>
@@ -29,7 +29,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>3</td>
     <td>Identifying genetic patterns</td>
-    <td>lists and loops</td>
+    <td>Lists and loops</td>
     <td>CFB chapter 2</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 2</a></td>
@@ -38,7 +38,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>4</td>
     <td>Structure of genomes</td>
-    <td>software design, computational experiments</td>
+    <td>Software design, computational experiments</td>
     <td>CFB chapters 3-4</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 2</a></td>
@@ -47,7 +47,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>5</td>
     <td>Genome evolution</td>
-    <td>simulation and random numbers</td>
+    <td>Simulation and random numbers</td>
     <td>CFB chapters 3-4</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 3</a></td>
@@ -56,7 +56,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>6</td>
     <td>Ortholog detection</td>
-    <td>recursion</td>
+    <td>Recursion</td>
     <td>CFB chapter 5</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 3</a></td>
@@ -65,8 +65,8 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>7</td>
     <td></td>
-    <td>recursion</td>
-    <td>CFB chapter 6-7</td>
+    <td>Recursion</td>
+    <td>CFB chapters 6-7</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 4</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight1.pdf>Spotlight 7</a></td>
@@ -74,16 +74,16 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>8</td>
     <td></td>
-    <td>dictionaries</td>
-    <td>CFB chapter 6-7</td>
+    <td>Dictionaries</td>
+    <td>CFB chapters 6-7</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 4</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight1.pdf>Spotlight 8</a></td>
   </tr>
   <tr>
     <td>9</td>
-    <td>sequence evolution</td>
-    <td>sequence alignment</td>
+    <td>Sequence evolution</td>
+    <td>Sequence alignment</td>
     <td>CFB chapter 8</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 5</a></td>
@@ -91,8 +91,8 @@ plan: "<table style=\"width:120%\">
   </tr>
   <tr>
     <td>10</td>
-    <td>tree thinking</td>
-    <td>computing with trees</td>
+    <td>Tree thinking</td>
+    <td>Computing with trees</td>
     <td>CFB Chapter 9</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 5</a></td>
@@ -100,8 +100,8 @@ plan: "<table style=\"width:120%\">
   </tr>
   <tr>
     <td>11</td>
-    <td>evolutionary inference</td>
-    <td>inferring trees</td>
+    <td>Evolutionary inference</td>
+    <td>Inferring trees</td>
     <td>CFB 11</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 6</a></td>
