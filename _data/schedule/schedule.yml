@@ -65,7 +65,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>7</td>
     <td>Ortholog detection</td>
-    <td>recursion/dictionaries</td>
+    <td>Recursion/dictionaries</td>
     <td>CFB Chapters 6-7</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 4</a></td>
@@ -74,7 +74,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>8</td>
     <td>Functional genomics</td>
-    <td>recursion/dictionaries</td>
+    <td>Recursion/dictionaries</td>
     <td>CFB Chapters 6-7</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 4</a></td>
@@ -101,7 +101,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>11</td>
     <td>Evolutionary inference</td>
-    <td>Inferring trees</td>
+    <td>Tree inference</td>
     <td>CFB Chapter 11</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 6</a></td>
@@ -120,7 +120,7 @@ plan: "<table style=\"width:120%\">
     <td>13</td>
     <td>Complex traits</td>
     <td>Modeling and simulation</td>
-    <td>CFB 1-?</td>
+    <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Assignment 7</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight1.pdf>Spotlight 13</a></td>
@@ -137,7 +137,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>15</td>
     <td>Precision medicine</td>
-    <td>alignment applications</td>
+    <td>Alignment applications</td>
     <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Final project</a></td>
@@ -146,7 +146,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>16</td>
     <td>Evolutionary medicine</td>
-    <td>tree inference applications</td>
+    <td>Tree inference applications</td>
     <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Final project</a></td>
