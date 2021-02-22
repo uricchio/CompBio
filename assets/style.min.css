@@ -329,4 +329,6 @@ ul.lists {
   border-bottom: 1px solid #FFF;
   text-decoration: none; }
    
-        
+td {
+  font-size: 2em;        
+}
