@@ -1,4 +1,4 @@
-plan: "<font size=\"2\"><table class=\"alignleft\" style=\"width:120%\">
+plan: "<font size=\"2\"><table align=\"left\" style=\"width:120%\">
   <tr>
     <th>Week</th>
     <th>Biology topic</th>
@@ -152,6 +152,6 @@ plan: "<font size=\"2\"><table class=\"alignleft\" style=\"width:120%\">
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Final project</a></td>
     <td>N/A</td>
   </tr>
-  </font></table>"
+  </table></font>"
 
 class: "TBA"
