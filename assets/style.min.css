@@ -7,6 +7,10 @@
   font-size: 3em;
 }
 
+ th, td {
+    font-size: 18px;
+  }
+
 hr{
   border-bottom: 1px solid  rgba(22, 20, 20, 0.74)  ;
 }
@@ -329,6 +333,3 @@ ul.lists {
   border-bottom: 1px solid #FFF;
   text-decoration: none; }
    
-td {
-  font-size: 2em;        
-}
