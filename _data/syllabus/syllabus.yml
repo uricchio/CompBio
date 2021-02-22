@@ -32,10 +32,10 @@ syllabus:
 
               <ul>
 
-              <li> Python3: </li>
-              <li> numpy: </li>
-              <li> SLiM: </li>
-              <li> stdpopsim: </li>
+              <li> <a href=https://www.python.org/download/releases/3.0/>Python3</a></li>
+              <li> <a href=https://numpy.org/install/>numpy</a></li>
+              <li> <a href=https://messerlab.org/slim/>SLiM</a></li>
+              <li> <a href=https://stdpopsim.readthedocs.io/en/latest/>stdpopsim</a></li>
               </ul>" 
 
   - heading: Materials  
