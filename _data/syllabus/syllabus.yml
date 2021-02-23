@@ -45,6 +45,17 @@ syllabus:
               <li> <i>Computing for Biologists: Python Programming and Principles</i>, 
               Ran Liebskind-Hadas and Eliot Bush. <a href=https://books.google.com/books/about/Computing_for_Biologists.html?id=E8HOBAAAQBAJ>link here</a>"
   
+  - heading: Additional resources
+    content: "A few optional resources that may provide insights not available from your textbook. We will update this list throughout the term. 
+              If you find a helpful resource please feel free to message your TA or instructor so we can share it with the class. Only free 
+              resources will be posted to this list.
+              <br><br>
+              <ul>
+                <li> <a href=https://sites.tufts.edu/datalab/python/#setup>Tufts Python and data science resources</a></li>
+              </ul>
+
+              "
+
   - heading: Assignments
     content: "There will be four types of assignments in this course:
                <ul>
