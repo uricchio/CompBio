@@ -66,19 +66,19 @@ syllabus:
                </ul>"
 
   - heading: Late policy  
-    content: "<p>There is a lot going on in the world right now, and it is the firm belief of the instructional team for this course 
+    content: "There is a lot going on in the world right now, and it is the firm belief of the instructional team for this course 
               that student's mental health and well being comes first. If there is something happening in your life that will make
               it challenging for you to complete assignments within the allotted window, please come talk to us or a trusted academic advisor.
               It is highly likely that we will be able to work something out. If you are uncomforable speaking directly to the Instructor, please
-              feel free to speak to the TA and have them refer your concern.</p>
+              feel free to speak to the TA and have them refer your concern.<br><br>
               
-              <p> <b>In general, we will allow a grace period of three business days for the first two late assignments (including the final project), 
+              In general, we will allow a grace period of three business days for the first two late assignments (including the final project), 
               no questions asked. In other words, if an assignment is due on Friday and you don't turn it in until Wednesday, that's OK in the first two instances.
-              Subsequent late assignments will be subject to a 20 percent penalty per day late.<b></p>
+              Subsequent late assignments will be subject to a 20 percent penalty per day late.<br><br>
      
-              <p>We also recognize that there is a lot going on in the world right now. In addition to personal challenges, there may be events that make it challenging for all
+              In addition to personal challenges, there may be events that make it challenging for all
               of us to work. We will try to be sensitive to these types of events and provide leniency for the whole class under such circumstances. We encourage the 
-              students to make us aware of any such events <p>."
+              students to make us aware of any such events."
 
   - heading: Grading 
     content: "<ul><li>Coding assignments: 60%  (10% each) </li>
