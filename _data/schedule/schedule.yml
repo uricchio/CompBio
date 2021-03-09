@@ -64,7 +64,7 @@ plan: "<table style=\"width:120%\">
   </tr>
   <tr>
     <td>7</td>
-    <td>Ortholog detection</td>
+    <td>Natural selection</td>
     <td>Recursion/dictionaries</td>
     <td>CFB Chapters 6-7</td>
     <td></td>
@@ -73,7 +73,7 @@ plan: "<table style=\"width:120%\">
   </tr>
   <tr>
     <td>8</td>
-    <td>Functional genomics</td>
+    <td>Ortholog detection</td>
     <td>Recursion/dictionaries</td>
     <td>CFB Chapters 6-7</td>
     <td></td>
@@ -82,7 +82,7 @@ plan: "<table style=\"width:120%\">
   </tr>
   <tr>
     <td>9</td>
-    <td>Genome evolution</td>
+    <td>Genome evolution & Functional genomics</td>
     <td>Sequence alignment</td>
     <td>CFB Chapter 8</td>
     <td></td>
@@ -100,26 +100,26 @@ plan: "<table style=\"width:120%\">
   </tr>
   <tr>
     <td>11</td>
-    <td>Evolutionary inference</td>
-    <td>Tree inference</td>
-    <td>CFB Chapter 11</td>
+    <td>Speciation & biogeography</td>
+    <td>Computing with trees</td>
+    <td>CFB Chapter 10</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment6.pdf>Coding 6</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight1.pdf>Spotlight 11</a></td>
   </tr>
   <tr>
     <td>12</td>
-    <td>Evolutionary interactions</td>
-    <td>RNA structure prediction</td>
-    <td>CFB Chapter 12</td>
+    <td>Evolutionary inferences</td>
+    <td>Tree inference algorithms</td>
+    <td>CFB Chapter 11</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment7.pdf>Coding 7</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight1.pdf>Spotlight 12</a></td>
   </tr>
   <tr>
     <td>13</td>
-    <td>Complex traits</td>
-    <td>Modeling and simulation</td>
+    <td>Viral evolution</td>
+    <td>Tree inference algorithms</td>
     <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment7.pdf>Coding 7</a></td>
@@ -128,7 +128,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>14</td>
     <td>Human genetics</td>
-    <td>Variance decomposition</td>
+    <td>Demographic processes</td>
     <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment8.pdf>Coding 8</a></td>
@@ -136,8 +136,8 @@ plan: "<table style=\"width:120%\">
   </tr>
   <tr>
     <td>15</td>
-    <td>Precision medicine</td>
-    <td>Alignment applications</td>
+    <td>Human genetics</td>
+    <td>Simulating complex traits</td>
     <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment8.pdf>Coding 8</a></td>
