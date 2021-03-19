@@ -75,25 +75,25 @@ plan: "<table style=\"width:120%\">
     <td>8</td>
     <td>Ortholog detection</td>
     <td>Recursion/dictionaries</td>
-    <td>CFB Chapters 5-6</td>
+    <td>CFB Chapter 5</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment5.pdf>Coding 5</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight7.pdf>Spotlight 7</a></td>
   </tr>
   <tr>
     <td>9</td>
-    <td>Genome evolution & Functional genomics</td>
-    <td>Sequence alignment</td>
-    <td>CFB Chapters 7-8</td>
+    <td>Functional genomics</td>
+    <td>recursion/dictionaries</td>
+    <td>CFB Chapters 6-7</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment5.pdf>Coding 5</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight8.pdf>Spotlight 8</a></td>
   </tr>
   <tr>
     <td>10</td>
-    <td>Tree thinking</td>
-    <td>Computing with trees</td>
-    <td>CFB Chapter 9</td>
+    <td>Homology and genome evolution</td>
+    <td>Sequence alignment</td>
+    <td>CFB Chapter 8</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment6.pdf>Coding 6</a></td>
     <td>N/A</td>
@@ -102,7 +102,7 @@ plan: "<table style=\"width:120%\">
     <td>11</td>
     <td>Speciation & biogeography</td>
     <td>Computing with trees</td>
-    <td>CFB Chapter 10</td>
+    <td>CFB Chapters 9-10</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment6.pdf>Coding 6</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight9.pdf>Spotlight 9</a></td>
@@ -137,7 +137,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>15</td>
     <td>Human genetics</td>
-    <td>Simulating complex traits</td>
+    <td>Modeling complex traits</td>
     <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment8.pdf>Coding 8</a></td>
@@ -146,7 +146,7 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>16</td>
     <td>Evolutionary medicine</td>
-    <td>Tree inference applications</td>
+    <td></td>
     <td></td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment1.pdf>Final project</a></td>
