@@ -56,8 +56,8 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>6</td>
     <td>Natural selection</td>
-    <td>Recursion/dictionaries</td>
-    <td>CFB Chapter 5</td>
+    <td>Selection models</td>
+    <td>N/A</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment4.pdf>Coding 4</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight5.pdf>Spotlight 5</a></td>
@@ -65,8 +65,8 @@ plan: "<table style=\"width:120%\">
   <tr>
     <td>7</td>
     <td>Natural selection</td>
-    <td>Recursion/dictionaries</td>
-    <td>CFB Chapters 6-7</td>
+    <td>Detecting selection</td>
+    <td>N/A</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment4.pdf>Coding 4</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight6.pdf>Spotlight 6</a></td>
@@ -75,7 +75,7 @@ plan: "<table style=\"width:120%\">
     <td>8</td>
     <td>Ortholog detection</td>
     <td>Recursion/dictionaries</td>
-    <td>CFB Chapters 6-7</td>
+    <td>CFB Chapters 5-6</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment5.pdf>Coding 5</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight7.pdf>Spotlight 7</a></td>
@@ -84,7 +84,7 @@ plan: "<table style=\"width:120%\">
     <td>9</td>
     <td>Genome evolution & Functional genomics</td>
     <td>Sequence alignment</td>
-    <td>CFB Chapter 8</td>
+    <td>CFB Chapters 7-8</td>
     <td></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/assignment5.pdf>Coding 5</a></td>
     <td><a href=https://uricchio.github.io/CompBio/assets/assignments/spotlight8.pdf>Spotlight 8</a></td>
